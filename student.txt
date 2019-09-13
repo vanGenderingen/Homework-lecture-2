@@ -1,0 +1,3 @@
+Student name: Casper van Genderingen
+Student number: 645568
+Student class: INF1B
